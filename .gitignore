@@ -1,0 +1,6 @@
+.DS_Store
+tests/*-output.txt
+tests/*-encoded.txt
+makefile
+aencode*
+adecode*
